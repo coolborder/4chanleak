@@ -1,0 +1,8 @@
+Your 4chan Pass Has Been Canceled and Refunded
+You're receiving this e-mail because your 4chan Pass has been canceled and refunded.
+
+As a result, you have been issued a pro-rated refund as of {{DATE}} in the amount of {{AMOUNT}}, and your 4chan Pass (Token: {{TOKEN}}) has been deactivated. Your refund has already been initiated, and should process within 5-10 business days. Note that it may appear on your statement as a reversal instead of a separate credit.
+
+Questions and support requests can be e-mailed to 4chanpass@4chan.org
+
+Your support, as always, has been appreciated.

@@ -1,0 +1,10 @@
+4chan Emergency Disclosure Response (Report #{{REPORT_ID}})
+Dear {{REQUESTER}},
+
+In reference to your emergency disclosure request made pursuant to 18 U.S.C. § 2702(b)(8) and § 2702(c)(4) and dated {{REQUEST_DATE}}{{REQUESTER_DOC_ID}}, please find attached the requested records as file: "4chan Report {{REPORT_ID}}{{REQUESTER_DOC_ID}}.txt"
+
+Please let us know if you have any additional questions or require further assistance.
+
+Regards,
+
+4chan LEO Support

@@ -1,0 +1,68 @@
+4chan Janitor Team Orientation Text
+1. Mission
+==========
+
+Janitors are volunteers who work behind the scenes to improve the 4chan community through positive contribution and removing rule-breaking content. They are themselves avid users who have a thorough knowledge of the topics discussed on their assigned board(s), and a nuanced understanding of those communities.
+
+2. Tasks
+========
+
+Janitors are given three basic tasks: remove rule-breaking content, submit ban requests to moderators, and highlight board issues to the 4chan team.
+
+Deletions can be made whilst browsing, or via the reports queue that all janitors are given access to. The reports queue surfaces posts that have been reported by the community, and ranked in order of number of reports and severity. Janitors should check the queue often, and aim to clear the queue by judging all reported posts. Using the queue, you will primarily be deleting content that is against the rules, clearing reports for posts that do not violate the rules, and submitting requests for bans and warnings from moderators.
+
+You may request a user be banned (or warned) for breaking the rules. Ban requests are submitted into a queue where they are reviewed by moderators. When a ban request is pending, the poster will be blocked from posting for 15 minutes, so that a moderator can review urgent requests (such as for spam or illegal content).
+
+The final task is to highlight board issues to the rest of the team. You should keep your fellow janitors and moderators apprised of any issues that may arise, and have suggestions for how to address them. Problems do sprout up from time to time, and the best way to resolve them is to do so before things get too out of hand.
+
+3. Judgment
+===========
+
+Deciding whether or not a post should be removed and/or a user punished can be challenging. You must ask yourself: "Does this post contribute to the given thread or board overall?" and "Does this post violate the rules?"
+
+Posts that violate the rules should always be removed, however not every low quality post requires deletion. There are such things as neutral posts -- posts that don't necessarily add value, but also don't detract nor violate the rules.
+
+In addition, not all rule-breaking content should result in a ban. Consider the following: Is the post in question mala prohibita (against the rules because we say so) or mala in se (evil in itself)? Sometimes the appropriate action for content that is merely against the rules is to delete it or issue a warning, and not ban that user. However for content that is mala in se (ie. illegal, users attacking one another, posting personal information/calls to invasion, etc), the appropriate action is always to ban the poster.
+
+You'll need to use your best judgment to make these determinations. Objectivity is extremely important, and a requirement of all 4chan janitors. You must enforce the rules as written, to the best of your ability, while also exercising discretion.
+
+During your beginning weeks and months, we highly encourage constant communication with your fellow janitors and moderators. Keeping in contact via Discord is a general requirement, but you should be extra communicative early on to ensure you start off on the right foot. Ease into your new role: Don't obsess over clearing the queue, and avoid being heavy-handed.
+
+The janitors who have traditionally excelled at their tasks and remained members of the team for years are those open to constructive criticism, objective, and kind. People with an "Us vs. Them" mentality don't last very long, and often end up burning out or being removed. So try your best to be the former.
+
+4. Do's & Don'ts
+================
+
+To recap, here's what you can do: delete posts, threads, and images. You'll also have access to the reports queue, and be able to submit ban requests.
+
+So what can't you do? Perhaps most importantly: Posting as, or disclosing that you are a janitor *to anyone* will result in immediate termination of your account and expulsion from the 4chan Janitor Team. There are no exceptions to this rule, and it is in your own best interest. General knowledge of the identities of team members has created numerous problems in the past, with individual janitors and moderators being singled out and blamed for countless deletions and bans they did not perform.
+
+Per your signed 4chan Volunteer Moderator Agreement, we expect you to keep any and all information and materials provided to you in confidence, during and after your time as a janitor. You should not share orientation materials, screenshots, chat logs, information about users and your fellow team members, etc with anyone. Doing so is also grounds for immediate termination, and in some cases may expose you to civil and criminal liability.
+
+5. Onboarding Process
+=====================
+
+Got all that and itching to help out? We're getting there.
+
+First, please memorize the global rules and board-specific rules for your assigned board(s). Next, we'll schedule an orientation session with a moderator over Discord. These orientation sessions are normally conducted one-on-one, and mostly consist of listening. We'll cover the topics discussed in this e-mail, the tools you'll be using, and set up your janitor account. At the end of the session, you'll be introduced to the rest of the 4chan Janitor Team via Discord.
+
+6. Probation & Leaves of Absence
+================================
+
+New janitors are considered "probationary" when they begin their service. All deletions and actions are logged, and periodically reviewed by moderators. It should also be noted that there is no concept of tenure at 4chan. If you plan to take time away from the 4chan Janitor Team for any reason, please notify us as soon as possible. Janitors who become inactive without prior notice may have their account suspended, and be expelled from the team.
+
+This isn't to say you shouldn't take time away from janitoring -- by all means, do so! But don't disappear for weeks or months without first notifying us. Giving us ample notice allows us to better allocate our resources, ask other janitors to pitch in for your assigned board(s), and potentially recruit additional janitors to fill the void. Similarly, if for some reason you decide to leave the Janitor Team, please let us know immediately.
+
+7. Last But Not Least
+=====================
+
+While deleting rule-breaking content may seem like the best way to improve the quality of a board, it isn't. The number one thing you can do to help the community as a janitor is the same thing that anyone else can do -- contribute high-quality content to the boards. Lead by example and help to create an environment where others are inspired to contribute positively to the 4chan community.
+
+8. Closing
+==========
+
+I hope you now have a better sense of what will be expected of you as a 4chan janitor. It's a thankless role, but if you love the community as we do, it can be greatly fulfilling.
+
+Best of luck!
+
+--Team 4chan

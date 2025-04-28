@@ -1,0 +1,9 @@
+Your 4chan Moderation Account is Pending Activation
+In order to activate your 4chan moderation account, you must first agree to and sign the 4chan Volunteer Moderator Agreement.
+
+You can review the Volunteer Moderator Agreement by following this link (use the temporary credentials below to access): https://reports.4chan.org/agreement?key={{KEY}}
+
+Your temporary Username is: {{LOGIN}}
+Your temporary Password is: {{PWD}}
+
+--Team 4chan

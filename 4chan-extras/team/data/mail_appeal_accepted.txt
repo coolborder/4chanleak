@@ -1,0 +1,12 @@
+Your 4chan Ban Appeal (#{{ID}}) Has Been Accepted
+We're pleased to inform you that your 4chan ban appeal (#{{ID}}) has been accepted. Before posting again, please be sure to familiarize yourself with the Rules (https://www.4chan.org/rules).
+
+You may now post again on the applicable board(s).
+
+--4chan
+
+
+Your appeal was:
+================
+
+{{PLEA}}

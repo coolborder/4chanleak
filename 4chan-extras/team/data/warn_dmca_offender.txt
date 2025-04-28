@@ -1,0 +1,7 @@
+Content you (or someone using this IP address) submitted is the subject of a copyright infringement claim (commonly known as a "DMCA takedown notice"){{BY_CLAIMANT}}. <span style="text-decoration: underline;">As required by United States law</span>&mdash;the <a href="http://www.copyright.gov/legislation/dmca.pdf" target="_blank">Digital Millennium Copyright Act</a> ("DMCA")&mdash;the content in question has been disabled and will be re-enabled if we receive a counter notification from you. Please refer to our <a href="https://www.4chan.org/legal#dmca" target="_blank">DMCA Policy</a> for more information, and reference DMCA Takedown Notice ID #{{NOTICE_ID}} in your counter-notice.
+
+Please note that a complete copy of your counter-notice (including your name, contact information, et cetera) may be forwarded to the original complaining party once we receive it. If no further action is taken by the copyright owner in response to your counter-notice, your content will be re-enabled on the applicable board(s)/thread(s) to which you originally posted (providing the thread hasn't expired and/or been pruned or deleted) in 10-14 business days.
+
+Below is a list of content that has been disabled:
+
+{{CONTENT_LIST}}

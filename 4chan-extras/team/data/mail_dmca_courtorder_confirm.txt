@@ -1,0 +1,16 @@
+4chan DMCA Notification of Action Confirmation (Takedown ID #{{NOTICE_ID}})
+Dear {{CLAIMAINT_NAME_OR_COMPANY}},
+
+This message is to inform you that we are in receipt of your notification of action concerning DMCA Takedown ID #{{NOTICE_ID}} and DMCA Counter-Notice ID #{{COUNTERNOTICE_ID}} dated {{COURTORDER_DATE}}.
+
+We will take appropriate action per our DMCA Policy located at https://www.4chan.org/legal#dmca and the Digital Millennium Copyright Act ("DMCA"). Per our policy and the DMCA, once we receive notification of an action contesting the restoration of material subject to a copyright infringement claim, we will permanently disable the infringing material.
+
+Regards,
+
+4chan DMCA Agent
+
+
+Below is a copy of the notification of action we received:
+==========================================================
+
+{{COURTORDER_COPY}}

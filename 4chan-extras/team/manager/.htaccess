@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Team 4chan"
+AuthUserFile /www/global/htpasswd/managers
+Require valid-user
+RewriteEngine On

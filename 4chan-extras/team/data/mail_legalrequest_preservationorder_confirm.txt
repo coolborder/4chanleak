@@ -1,0 +1,25 @@
+4chan Preservation Order Confirmation (Report #{{REPORT_ID}})
+Dear {{REQUESTER}},
+
+We confirm receipt of your preservation order dated {{REQUEST_DATE}}{{REQUESTER_DOC_ID}}.
+
+Please find our service of process information enclosed below:
+
+Legal process should be addressed to "4chan Custodian of Records" and e-mailed to lawenforcement@4chan.org. We do not accept process via any other means at this time.
+
+If your agency requires an address be listed on legal process, you may use:
+
+4chan community support LLC
+ATTN: Custodian of Records
+2885 Sanford Ave Sw #34441
+Grandville Mi 49418-1342
+
+If this information is not already on file with your agency or preferred database, we request you update your records. All other addresses/phone numbers are invalid and may delay or result in no response.
+
+Please note that 4chan retains few, if any, records about expired/pruned postings. Postings usually expire within hours to days at most, and we generally must receive a preservation order, emergency request, or other legal process within 12-24 hours of a posting being made in order to preserve or retrieve records prior to their expiration. Some exceptions exist however, including when a user has been blocked from posting, and/or when their posting(s) have been removed by a moderator.
+
+Please let us know if you have any additional questions or require further assistance.
+
+Regards,
+
+4chan LEO Support

@@ -1,0 +1,16 @@
+4chan DMCA Takedown Counter-Notice Confirmation (Counter-Notice ID #{{COUNTERNOTICE_ID}})
+Dear {{COUNTERNOTICE_NAME_OR_COMPANY}},
+
+This message is to inform you that we are in receipt of your counter notification of claimed copyright infringement (commonly known as a "DMCA takedown counter-notice") dated {{COUNTERNOTICE_DATE}}.
+
+We will take appropriate action per our DMCA Policy located at https://www.4chan.org/legal#dmca and the Digital Millennium Copyright Act ("DMCA"). Per our policy and the DMCA, once in receipt of a counter-notice, we may forward a copy of the notice to the original complaining party. If no further action is taken by the copyright owner in response to your counter-notice, your content will be re-enabled on the applicable board(s)/thread(s) to which you posted (providing the thread hasn't expired and/or been pruned or deleted) in 10-14 business days.
+
+Regards,
+
+4chan DMCA Agent
+
+
+Below is a copy of the counter-notice we received:
+==================================================
+
+{{COUNTERNOTICE_COPY}}

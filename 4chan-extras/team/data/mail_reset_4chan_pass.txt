@@ -1,0 +1,13 @@
+Your 4chan Pass Token/PIN
+You're receiving this e-mail because you recently requested your 4chan Pass PIN be reset.
+
+Below are your new 4chan Pass login details:
+
+4chan Pass Details
+==================
+Your Pass Token: {{USER_HASH}} (Your Token is unchanged.)
+Your Pass PIN: {{PIN}}
+
+Please update your records and use these new details to authenticate at https://sys.4chan.org/auth
+
+Need help? Please contact 4chanpass@4chan.org for assistance.

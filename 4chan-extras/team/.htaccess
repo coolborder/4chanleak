@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Team 4chan"
+AuthUserFile /www/global/htpasswd/moderators
+Require valid-user

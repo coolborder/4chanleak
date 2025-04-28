@@ -1,0 +1,10 @@
+4chan Search Warrant Response (Report #{{REPORT_ID}})
+Dear {{REQUESTER}},
+
+In reference to your search warrant dated {{REQUEST_DATE}}{{REQUESTER_DOC_ID}}, please find attached the requested records as file: "4chan Report {{REPORT_ID}}{{REQUESTER_DOC_ID}}.txt"
+
+Please let us know if you have any additional questions or require further assistance.
+
+Regards,
+
+4chan LEO Support

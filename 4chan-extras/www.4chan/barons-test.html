@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>4chan</title>
+  <link rel="shortcut icon" href="//s.4cdn.org/image/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<div id="azk92421"></div>
+<div id="azk91603"></div>
+<script type="text/javascript">
+  var p = "http", d = "s", el;
+  
+  if (document.location.protocol == "https:") {
+    p += "s";
+  }
+  
+  var z = document.createElement("script");
+  z.type = "text/javascript";
+  z.async = true;
+  z.src = p + "://" + d + ".zkcdn.net/ados.js";
+  z.onload = function() {
+    ados = ados || {};
+    ados.run = ados.run || [];
+    ados.run.push(function () {
+      //ados_setPassbackTimeout(3000); default is 400ms
+      ados_add_placement(3536, 18130, "azk92421", 5).setZone(162389).setCampaignId(469249);
+      ados_add_placement(3536, 18130, "azk91603", 4).setZone(16258).setCampaignId(469249);
+      ados_setDomain('engine.4chan-ads.org');
+      ados_setKeywords('barons');
+      ados_setNoTrack();
+      ados_load();
+      console.log('ok');
+    });
+  };
+  
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(z, s);
+</script>
+</body>
+</html>

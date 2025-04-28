@@ -1,0 +1,16 @@
+4chan DMCA Takedown Notice Confirmation (Takedown ID #{{NOTICE_ID}})
+Dear {{CLAIMAINT_NAME_OR_COMPANY}},
+
+This message is to inform you that we are in receipt of your notification of claimed copyright infringement (commonly known as a "DMCA takedown notice") dated {{NOTICE_DATE}}.
+
+We will take appropriate action per our DMCA Policy located at https://www.4chan.org/legal#dmca and the Digital Millennium Copyright Act ("DMCA"). Per our policy and the DMCA, once we receive a bona fide infringement notification we will disable access to the infringing material and notify the user that we have disabled the material. As permitted by law, we may also forward a complete copy of your notice (including your name, contact information, et cetera) to the user(s) who submitted the copyrighted material referenced in your notice.
+
+Regards,
+
+4chan DMCA Agent
+
+
+Below is a copy of the notice we received:
+==========================================
+
+{{NOTICE_COPY}}

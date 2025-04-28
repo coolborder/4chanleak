@@ -1,0 +1,25 @@
+You've been selected to join the 4chan Janitor Team!
+Congratulations!
+
+After reviewing thousands of applications, we think you'd be a good fit for the 4chan Janitor Team. Thank you for taking the time to apply and for your interest in volunteering to help maintain a great community.
+
+In order to become a janitor, you'll need to sign the 4chan Volunteer Moderator Agreement, review orientation materials, attend an orientation session via Discord, and be able to maintain consistent access to the janitor Discord server.
+
+You can review the Volunteer Moderator Agreement by following this link (use the temporary credentials below to access): https://reports.4chan.org/agreement?key={{KEY}}
+
+Your temporary Username is: {{LOGIN}}
+Your temporary Password is: {{PWD}}
+
+If you are still interested in becoming a janitor, please sign the Volunteer Moderator Agreement and respond to this e-mail with your Discord username. If you are no longer interested, please let us know so we can contact another suitable candidate.
+
+Please do not share this e-mail or discuss your acceptance with anyone. Anonymity is a strict requirement of the 4chan Janitor Team, and sharing any details about your acceptance, the orientation process, or duties will result in immediately expulsion.
+
+Please let us know the preferred time and date for your orientation session and we will do our best to accommodate you. The orientation takes place via Discord and lasts about two hours.
+
+If you don't have a Discord account, be sure to create one prior to this session. Your Discord account will require a verified email address to access the Janiteam server, and the use of 2FA is strongly encouraged. If you do decide to use 2FA, make sure to save your backup codes as losing or changing phones without the backup codes will mean the loss of access to your Discord account.
+
+If you have any additional questions, comments, or concerns, please e-mail: janitorapps@4chan.org
+
+Thanks again for your interest in volunteering -- we look forward to welcoming you to the 4chan Janitor Team!
+
+--Team 4chan

@@ -1,0 +1,26 @@
+#image-hover {
+  display: block;
+  z-index: 100;
+}
+
+.fitToScreen {
+  position: fixed;
+  max-width: 100%;
+  max-height: 100%;
+  top: 0px;
+}
+
+/* Tooltips */ 
+#tooltip {
+  position: absolute;
+  background-color: #181f24;
+  border-radius: 3px;
+  font-size: 12px;
+  padding: 5px 8px 4px 8px;
+  z-index: 100000;
+  word-wrap: break-word;
+  white-space: pre-line;
+  max-width: 400px;
+  color: #dedede;
+  text-align: center;
+}

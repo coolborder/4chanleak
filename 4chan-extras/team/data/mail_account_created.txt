@@ -1,0 +1,15 @@
+Your 4chan Account Details
+Your 4chan moderation account has been successfully created.
+
+Please find your account credentials below, and be sure to follow the steps in order:
+
+Username: {{USERNAME}}
+Temporary Password: {{PASSWORD}}
+
+1. You must first choose a new, user-defined Password in order to log in. You can do so here, using your Temporary Password: https://reports.4chan.org/changepass
+2. *After* changing your password, you may then log in at: https://reports.4chan.org/login
+3. Optional: We highly recommend enabling two-factor authentication: https://reports.4chan.org/login?action=tfa
+
+It is very important that you protect these credentials! Be sure to exercise best security practices, such as using a strong password and/or password manager, two-factor authentication for your e-mail account, etc. If your account username and/or password may have been compromised, report it to us immediately.
+
+--Team 4chan
